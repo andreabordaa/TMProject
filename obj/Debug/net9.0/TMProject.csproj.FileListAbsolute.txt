@@ -1,0 +1,15 @@
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.AssemblyInfoInputs.cache
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.AssemblyInfo.cs
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.csproj.CoreCompileInputs.cache
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.sourcelink.json
+/Users/andreaborda/Documents/ITCS 3112/TMProject/bin/Debug/net9.0/TMProject
+/Users/andreaborda/Documents/ITCS 3112/TMProject/bin/Debug/net9.0/TMProject.deps.json
+/Users/andreaborda/Documents/ITCS 3112/TMProject/bin/Debug/net9.0/TMProject.runtimeconfig.json
+/Users/andreaborda/Documents/ITCS 3112/TMProject/bin/Debug/net9.0/TMProject.dll
+/Users/andreaborda/Documents/ITCS 3112/TMProject/bin/Debug/net9.0/TMProject.pdb
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.dll
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/refint/TMProject.dll
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.pdb
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/TMProject.genruntimeconfig.cache
+/Users/andreaborda/Documents/ITCS 3112/TMProject/obj/Debug/net9.0/ref/TMProject.dll
